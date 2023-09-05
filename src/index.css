@@ -1,0 +1,11 @@
+.card{
+  border: 1px solid rgb(185, 185, 185);
+  border-radius: 20px;
+  padding: 25px 20px;
+  box-shadow: 2px 3px 3px rgb(185, 185, 185);
+}
+
+.footer{
+  position: absolute;
+  bottom: 0;
+}
