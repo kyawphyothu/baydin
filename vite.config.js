@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     include: ['myanmar-calendar'],
   },
-  base: "/baydin.kyawphyothu.com/"
+  base: "/"
 })
