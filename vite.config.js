@@ -7,5 +7,4 @@ export default defineConfig({
   optimizeDeps: {
     include: ['myanmar-calendar'],
   },
-  base: "/"
 })
